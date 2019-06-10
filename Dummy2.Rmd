@@ -1,0 +1,14 @@
+---
+title: "Dummy2"
+author: "Ashley Julian"
+date: "June 10, 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+
+#Dummy file for practice to upload files to git.
+
+```
+
+
